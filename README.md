@@ -74,10 +74,3 @@
 > ✅ Users can also sign in using **Google** or our **registration form**.
 
 ---
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/ph-hostelhub.git
-   cd ph-hostelhub
