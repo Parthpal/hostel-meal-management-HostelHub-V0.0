@@ -1,0 +1,6 @@
+{
+  "_comment": "This section defines the hosting configuration for Firebase.",
+  "projects": {
+    "default": "hostelhub-28dec"
+  }
+}
