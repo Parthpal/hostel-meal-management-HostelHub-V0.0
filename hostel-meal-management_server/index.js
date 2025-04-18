@@ -17,7 +17,9 @@ const corsConfig = {
 // app.use(express.json());
 // app.use(cors())
 // app.use(express.json());
-const stripe = require("stripe")('sk_test_51OFj8sLwl5tXPPRvyzjJzwHBOr1qZqgVfqMMfqgl6triaCIpXNUqaNBprDjwclvyneGcLd3Mh6SX8Uf6KMwvdGqy00Uja77TJR');
+
+// Below line is commented due to push block policy kindly uncomment this when executing this code 
+//const stripe = require("stripe")('sk_test_51OFj8sLwl5tXPPRvyzjJzwHBOr1qZqgVfqMMfqgl6triaCIpXNUqaNBprDjwclvyneGcLd3Mh6SX8Uf6KMwvdGqy00Uja77TJR');
 //const uri = `mongodb+srv://${process.env.db_user}:${process.env.db_pass}@cluster0.kf7gnio.mongodb.net/?retryWrites=true&w=majority`;
 const uri = `mongodb+srv://${process.env.db_user}:${process.env.db_pass}@cluster0.kf7gnio.mongodb.net/?retryWrites=true&w=majority`;
 console.log();
